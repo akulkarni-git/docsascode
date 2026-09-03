@@ -30,9 +30,9 @@ My Markdown file includes:
    
 ### Trying out a table now
 Let's see what a table looks like:   
-| Idea | Test | Comments
+| Idea | Test | Comments|
 | :--- | :---: | ---: |
-|A | B| C|
+|Apple | Box| Cat|
 
 > [!NOTE]
 > This is the content of your note. It can span multiple lines.   
@@ -53,3 +53,4 @@ Let's see what a table looks like:
 > [!CAUTION]
 > Negative consequences of an action.
 
+Keep all these handy. 
